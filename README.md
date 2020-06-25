@@ -1,0 +1,6 @@
+# Arduino_Control_plus_RF_transceiver_excite_868_MHz-
+An Arduino code working to switch between the configurations of an antenna (three diodes), there is a push button used to switch between the antenna configurations, and
+also it is used to excite the RF transceiver working at 868 MHz... 
+It works for Arduino Pro or Pro-MINI with 3.3 Volts
+
+Important note: It is important to put all the files available with the arduino code in the same file in order to make the arduino code working fine...
